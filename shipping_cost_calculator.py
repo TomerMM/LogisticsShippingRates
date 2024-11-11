@@ -6,3 +6,6 @@ rate = float(input("Enter the shipping rate per kilogram: "))
 shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
+
+
+# hands on lab new update 11/11/2024 for git/gitbash
